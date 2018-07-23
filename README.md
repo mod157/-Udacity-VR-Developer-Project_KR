@@ -3,9 +3,11 @@
 
 
 ####3월 Term 1 시작
+
 - Project 1 : Carnival
 - Project 2 : Apartment
 - Project 3 : Maze
+
 ####6월 Term 1 종료
 
 ####7월 Term 2 시작
