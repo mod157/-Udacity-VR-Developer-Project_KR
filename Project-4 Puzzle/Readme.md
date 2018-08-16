@@ -18,13 +18,19 @@ I created a red ball search puzzle game aimed at the user as a child. I wanted t
 [![Video Label](http://img.youtube.com/vi/bt5MRrPpx8E/0.jpg)](https://youtu.be/bt5MRrPpx8E?t=0s)
 
 ### ScreenShot
-![이미지 대체 텍스트](http://jijong.github.io/images/dsad.jpg)
-
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot_1.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot_2.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot_3.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot_4.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/Mobile_1.jpg)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/Mobile_2.jpg)
 
 ### IdeaNote
-![이미지 대체 텍스트](http://jijong.github.io/images/dsad.jpg)
-![이미지 대체 텍스트](http://jijong.github.io/images/dsad.jpg)
-![이미지 대체 텍스트](http://jijong.github.io/images/dsad.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/idea_1.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/idea_2.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/idea_3.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/idea_4.jpg)
+
 
 
 ### Change
@@ -41,7 +47,9 @@ We have tried to reduce the natural movements and the sickness that young childr
 
 Thanks you.
 
-github : https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-4/Puzzle
+
+
+##### github : https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-4/Puzzle
 -------------------------------------------------------
 
 
