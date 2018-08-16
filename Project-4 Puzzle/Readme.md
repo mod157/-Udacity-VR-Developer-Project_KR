@@ -14,8 +14,8 @@ I created a red ball search puzzle game aimed at the user as a child. I wanted t
 ---------------------------------------------
 
 ### Play Video
-[![Video Label](http://img.youtube.com/vi/DIKSJo9kCx4/0.jpg)](https://youtu.be/DIKSJo9kCx4?t=0s)
-[![Video Label](http://img.youtube.com/vi/bt5MRrPpx8E/0.jpg)](https://youtu.be/bt5MRrPpx8E?t=0s)
+[![Video Label](http://img.youtube.com/vi/DIKSJo9kCx4/0.jpg)](https://youtu.be/DIKSJo9kCx4?t=0.5s)
+[![Video Label](http://img.youtube.com/vi/bt5MRrPpx8E/0.jpg)](https://youtu.be/bt5MRrPpx8E?t=0.5s)
 
 ### ScreenShot
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot_1.png)
