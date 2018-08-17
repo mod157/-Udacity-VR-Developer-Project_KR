@@ -80,6 +80,7 @@ Orb를 어떻게 이동할지에 대해 계획하고 게임 방식에 대해 변
 1. 성공시 End포인트로 이동합니다.
 1. 실패시 2번으로 돌아갑니다.
 
+
 I encouraged my friend to test, and the results were
 
 | It is very easy to find one light source.
@@ -92,17 +93,16 @@ We also added whether we recognized Button Highlight.
 [KR]
 친구에게 테스팅을 권했고, 결과는 다음과 같았습니다.
 
-**_1개의 광원을 찾는 것은 매우 쉽다.
+> **_1개의 광원을 찾는 것은 매우 쉽다._**
 
-게임 소리 부분이 너무 크다
+> **_게임 소리 부분이 너무 크다_**
 
-버튼 부분에 닿았는지 모르겠다._**
+> **_버튼 부분에 닿았는지 모르겠다._**
 
 이것을 바탕으로 2개의 강원이 무작위로 빛나는 것으로 변경하고, 소리 부분도 조절하였다.
 또한, Button Highlight를 지정하여 인지하였는지를 추가하였다.
 
-
-### Play Video
+### Demo Play Video
 [![Video Label](http://img.youtube.com/vi/DIKSJo9kCx4/0.jpg)](https://youtu.be/DIKSJo9kCx4?t=0.5s)
 [![Video Label](http://img.youtube.com/vi/bt5MRrPpx8E/0.jpg)](https://youtu.be/bt5MRrPpx8E?t=0.5s)
 
