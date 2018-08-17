@@ -80,9 +80,23 @@ Orb를 어떻게 이동할지에 대해 계획하고 게임 방식에 대해 변
 1. 성공시 End포인트로 이동합니다.
 1. 실패시 2번으로 돌아갑니다.
 
-`친구에게 테스팅을 권했고, 결과는 다음과 같았습니다.
-|1개의 광원을 찾는 것은 매우 쉽다.
-게임 소리 부분이 너무 크다`
+I encouraged my friend to test, and the results were:
+| It is very easy to find one light source.
+| The sound part of the game is too big.
+| I do not know if it touches the button part.
+
+Based on this, the two Gangwon were changed to random shining, and the sound was also adjusted.
+We also added whether we recognized Button Highlight.
+
+[KR]
+친구에게 테스팅을 권했고, 결과는 다음과 같았습니다.
+| 1개의 광원을 찾는 것은 매우 쉽다.
+| 게임 소리 부분이 너무 크다
+| 버튼 부분에 닿았는지 모르겠다.
+
+이것을 바탕으로 2개의 강원이 무작위로 빛나는 것으로 변경하고, 소리 부분도 조절하였다.
+또한, Button Highlight를 지정하여 인지하였는지를 추가하였다.
+
 
 ### Play Video
 [![Video Label](http://img.youtube.com/vi/DIKSJo9kCx4/0.jpg)](https://youtu.be/DIKSJo9kCx4?t=0.5s)
@@ -101,23 +115,18 @@ Orb를 어떻게 이동할지에 대해 계획하고 게임 방식에 대해 변
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/Mobile_2.jpg)
 
 
-
-### Change
-The game was too difficult due to one change.
-Two changes were applied and the Orb was changed to move naturally
-
-[KR]
-한 번의 변경으로 인해 게임이 너무 어려웠습니다.
-두 가지 변화를 적용하였고,  Orb을 자연스럽게 이동되도록 변경
-
-### comment
-We have tried to reduce the natural movements and the sickness that young children will experience to carry out this project. We made it as simple as possible, and tried to design a way to enjoy it easily. My project is still incomplete and I think it can be further developed.
+### Finish
+I played this game with my nephew and solved the problem without difficulty. I can say that this project was a joy and a success. This project gave me a great experience. I think that making things to explain to others is harder than the existing development days. We also learned how to change and use existing sources to devise new ways.
+It's playable, but there are still a few things you might want to add.
+I want to make a puzzle that can be a multi-level puzzle, in harmony with the surrounding environment.
 
 [KR]
-우리는 어린 아이들이이 프로젝트를 수행하기 위해 경험하게 될 자연스러운 움직임과 질병을 줄이기 위해 노력해 왔습니다. 우리는 가능한 한 간단하게 만들었고 그것을 쉽게 즐길 수있는 방법을 고안했습니다. 내 프로젝트는 여전히 불완전하고 더 발전 될 수 있다고 생각합니다.
+조카에게 이 게임을 실행시켜주었고, 어려움 없이 문제를 해결 했습니다. 이 프로젝트는 즐거움을 주었기에 성공했다고 말할 수 있습니다. 이 프로젝트는 저에게 큰 경험을 주었습니다. 다른 사람에게 설명하기 위해 만드는 일이 기존의 개발일보다 더 힘들었다고 생각합니다. 또한, 새로운 방식을 고안하기 위해 기존의 소스를 변경하여 사용하는 방법도 알 수 있었습니다.
+플레이 가능한 상태이지만, 아직 몇가지 추가사항을 원하는 바도 있습니다.
+여러 단계가 가능한 퍼즐, 주변 환경과 조화를 이루는 퍼즐로 만들고 싶습니다.
 
 Thanks you.
 
 
-
-##### github : https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-4/Puzzle
+###### Linkedin : https://www.linkedin.com/in/sunjae-lee-0bb14616b/
+###### github : https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-4/Puzzle
