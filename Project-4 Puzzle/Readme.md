@@ -6,15 +6,32 @@
 We have created a 'red ball puzzle' for those who want to escape from the new puzzle.
 I tend to pursue new things and I am adventurous.
 So I decided to make things a bit harder and to think of bringing more joy to the eye, and I decided to move things.
-'Red Ball Puzzle' is a target for kids who love puzzles.
-The number of children who are experiencing VR is on the rise, and I wanted to develop a program that allows me to experience video and experience it by hand.
+
 
 [KR]
 새로운 퍼즐에서 벗어나고자 하는 사람들을 위해 'Red Ball Puzzle'을 만들게 되었습니다.
 나는 개인적으로 누구나 하는 것을 원하지 않습니다. 새로운 것을 추구하는 경향이 강하며, 모험심이 강합니다.
 그래서 조금 더 어렵고, 눈에 즐거움을 가져다 주는 방식이 무엇인지 생각하게 되었고, 오브젝트를 이동해보자는 결론을 얻게 되었습니다.
-'Red Ball Puzzle'은 퍼즐을 좋아하는 어린이를 사용자 그룹으로 하고 있습니다.
-VR을 체험하는 어린이들이 갈수록 늘고 있고, 영상 시청만이 아닌 직접 체험할 수 있는 프로그램으로 개발하고자 했습니다.
+
+
+
+### Target
+**'Red Ball Puzzle' is targeted at new mobile users.**
+
+Many people want to experience using VR, and they are always asking for newness.
+I would like to show new games to users who want to use Moblie VR.
+
+ * **The game should be simple and easy to understand.**
+ * **Create new rules by adding new methods in existing methods.**
+
+
+[KR]
+'Red Ball Puzzle'은 새로움을 좋아하는 모바일 사용자를 타겟으로 하고 있습니다.
+많은 사람들이 VR을 이용하여 체험을 경험하길 원하고 있으며, 항상 새로움을 요구 하고 있습니다.
+그 중 Moblie VR을 원하는 사용자들에게 새로운 게임을 보여주려 합니다.
+
+  * **게임은 단순하고 이해하기 쉬어야 한다.**
+  * **기존 방식에서 새로운 방식을 추가하여 새로운 룰을 제작한다.**
 
 
 ### Outcomes
@@ -102,6 +119,26 @@ We also added whether we recognized Button Highlight.
 이것을 바탕으로 2개의 강원이 무작위로 빛나는 것으로 변경하고, 소리 부분도 조절하였다.
 또한, Button Highlight를 지정하여 인지하였는지를 추가하였다.
 
+### Scenario
+1. On the start-up screen, click the button Start.
+1. Your camera moves to the PlayPoint.
+1. Two random Orbs light up.
+1. Orb moves randomly.
+1. Select the Orb in the order in which it was lit.
+1. Go to end point when success.
+1. If it fails, return to No. 2.
+
+
+[KR]
+1. 시작시 화면에서 버튼 Start를 클릭합니다.
+1. 사용자의 카메라가 Play포인트로 이동합니다.
+1. 무작위 2개의 Orb가 빛이 납니다.
+1. Orb가 무작위로 이동합니다.
+1. Orb가 빛이 났던 순서대로 선택합니다.
+1. 성공시 End포인트로 이동합니다.
+1. 실패시 2번으로 돌아갑니다.
+
+
 ### Demo Play Video
 [![Video Label](http://img.youtube.com/vi/DIKSJo9kCx4/0.jpg)](https://youtu.be/DIKSJo9kCx4?t=0.5s)
 [![Video Label](http://img.youtube.com/vi/bt5MRrPpx8E/0.jpg)](https://youtu.be/bt5MRrPpx8E?t=0.5s)
@@ -120,11 +157,13 @@ We also added whether we recognized Button Highlight.
 
 
 ### Finish
+I was able to experience a new puzzle. It is not a simple light game, it is a game to concentrate and think.
 I played this game with my nephew and solved the problem without difficulty. I can say that this project was a joy and a success. This project gave me a great experience. I think that making things to explain to others is harder than the existing development days. We also learned how to change and use existing sources to devise new ways.
 It's playable, but there are still a few things you might want to add.
 I want to make a puzzle that can be a multi-level puzzle, in harmony with the surrounding environment.
 
 [KR]
+나는 새로운 퍼즐을 경험할 수 있었습니다. 그것은 단순한 가벼운 게임이 아니며, 집중하고 생각하는 게임입니다.
 조카에게 이 게임을 실행시켜주었고, 어려움 없이 문제를 해결 했습니다. 이 프로젝트는 즐거움을 주었기에 성공했다고 말할 수 있습니다. 이 프로젝트는 저에게 큰 경험을 주었습니다. 다른 사람에게 설명하기 위해 만드는 일이 기존의 개발일보다 더 힘들었다고 생각합니다. 또한, 새로운 방식을 고안하기 위해 기존의 소스를 변경하여 사용하는 방법도 알 수 있었습니다.
 플레이 가능한 상태이지만, 아직 몇가지 추가사항을 원하는 바도 있습니다.
 여러 단계가 가능한 퍼즐, 주변 환경과 조화를 이루는 퍼즐로 만들고 싶습니다.
