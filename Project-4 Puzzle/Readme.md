@@ -80,7 +80,8 @@ Orb를 어떻게 이동할지에 대해 계획하고 게임 방식에 대해 변
 1. 성공시 End포인트로 이동합니다.
 1. 실패시 2번으로 돌아갑니다.
 
-I encouraged my friend to test, and the results were:
+I encouraged my friend to test, and the results were
+
 | It is very easy to find one light source.
 | The sound part of the game is too big.
 | I do not know if it touches the button part.
@@ -90,6 +91,7 @@ We also added whether we recognized Button Highlight.
 
 [KR]
 친구에게 테스팅을 권했고, 결과는 다음과 같았습니다.
+
 | 1개의 광원을 찾는 것은 매우 쉽다.
 | 게임 소리 부분이 너무 크다
 | 버튼 부분에 닿았는지 모르겠다.
