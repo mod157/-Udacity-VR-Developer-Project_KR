@@ -163,13 +163,13 @@ Provide the exit button separately.
 ### ScreenShot
   * Start Point
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot1.png)
-  - Red Ball
+- Enter Event
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot2.png)
-  - Moving Red Ball
+- Board
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot3.png)
-  - Finish
+  - Video
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot4.png)
-  -
+  - 360 Video
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot5.png)
 
 
@@ -179,6 +179,8 @@ This is what I have prepared. There is more to it than that, but there is no exp
 I am proud of my country.
 
 Thanks you.
+
+
 [KR]
 아쉽게도 여기까지가 내가 준비한 내용이다. 더 많은 내용이 있지만, 직접와서 보는 것 만큼 좋은 경험은 없으니까! 여러분들이 직접 찾아와 다양한 경험을 했으면 좋겠습니다. 내가 보여준건 단편일 뿐입니다. 여러분들이 많이 알아봐 주었으면 했습니다.
 
