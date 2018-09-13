@@ -13,7 +13,6 @@
 // limitations under the License.
 
 using UnityEngine;
-using System.Collections;
 
 /// This script positions and rotates the transform that it is attached to
 /// according to a pose in the arm model. See GvrArmModel.cs for details.
