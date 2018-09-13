@@ -1,3 +1,8 @@
+## Versions
+- Unity 2017.4.4f1
+- GVR Unity SDK v1.70.0
+- Android
+
 ﻿
 ## Night at the Museum
 -------------------------------------------------------
@@ -73,7 +78,7 @@ _**Click : 소개 영상 보여줌**_
 
 ---------------------------------------------
 ### IdeaNote
-![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-5%20NightattheMuseum/Image/idea_1.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/idea_1.png)
 ```
 I set the start point and the play point end point and set the position of each session.
 I implemented the overall logic of the game.
@@ -83,7 +88,7 @@ start 포인트와 play포인트 End포인트를 정하고 각각 세션의 위�
 게임 전반적인 Logic을 구현하였다.
 ```
 
-![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-5%20NightattheMuseum/Image/idea_2.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/idea_2.png)
 ```
 Introduction of session and method of executing image and design design were carried out.
 
@@ -91,7 +96,7 @@ Introduction of session and method of executing image and design design were car
 세션의 소개와 영상을 실행하는 방법과 디자인 설계를 진행했다.
 ```
 
-![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-5%20NightattheMuseum/Image/idea_3.jpg)
+![IdeaImage](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/idea_3.png)
 
 ```
 I have specified the entire design design and the Item position.
@@ -157,13 +162,13 @@ Provide the exit button separately.
 
 ### ScreenShot
   * Start Point
-![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot1.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot1.png)
   - Red Ball
-![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot2.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot2.png)
   - Moving Red Ball
-![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot3.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot3.png)
   - Finish
-![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot4.png)
+![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/tree/master/Project-5%20Night%20at%20the%20Museum/Image/ScreenShot4.png)
   -
 ![스크린샷](https://github.com/mod157/Udacity_VRDeveloper-Project_KR/blob/master/Project-4%20Puzzle/Image/ScreenShot5.png)
 
